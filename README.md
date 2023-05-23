@@ -2,7 +2,7 @@
  * @Author: shgopher shgopher@gmail.com
  * @Date: 2023-05-23 22:05:41
  * @LastEditors: shgopher shgopher@gmail.com
- * @LastEditTime: 2023-05-23 22:25:31
+ * @LastEditTime: 2023-05-23 22:57:18
  * @FilePath: /downM3U8/README.md
  * @Description: 
  * 
@@ -17,3 +17,4 @@ cd downM3U8
 go build -o dm3u8
 ./dm3u8 https://example.com/x/b.m3u8
 ```
+<video src="./a.mp4"/>
