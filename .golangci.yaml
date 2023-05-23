@@ -1,0 +1,42 @@
+linters:
+  enable:
+    - deadcode
+    - errcheck
+    - gofmt
+    - goimports
+    - golint
+    - gosec
+    - govet
+    - ineffassign
+    - misspell
+    - staticcheck
+    - structcheck
+    - unused
+  disable:
+    - gocyclo
+    - maligned
+  deadline: 10m
+  skip-dirs:
+    - vendor/
+
+linters-settings:
+  gofmt:
+    simplify: true
+    simplify-trailing-whitespace: true
+  golint:
+    min-confidence: 0.8
+  gosec:
+    enable:
+      - G204
+      - G401
+      - G505
+  misspell:
+    locale: US
+  staticcheck:
+    checks:
+      - SA4000
+      - SA4001
+      - SA4009
+
+linters-parallel: 4
+linters-repeat: 2

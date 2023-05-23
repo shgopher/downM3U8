@@ -1,0 +1,6 @@
+.idea
+.vs_code
+node_modules/**
+.Ds_Store
+.text
+
