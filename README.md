@@ -17,4 +17,4 @@ cd downM3U8
 go build -o dm3u8
 ./dm3u8 https://example.com/x/b.m3u8
 ```
-<video src="./a.mp4"/>
+![](./a.gif)
