@@ -2,14 +2,17 @@
  * @Author: shgopher shgopher@gmail.com
  * @Date: 2023-05-23 22:05:41
  * @LastEditors: shgopher shgopher@gmail.com
- * @LastEditTime: 2023-05-23 23:11:57
+ * @LastEditTime: 2023-05-23 23:14:37
  * @FilePath: /downM3U8/README.md
  * @Description: 
  * 
  * Copyright (c) 2023 by shgopher, All Rights Reserved. 
 -->
 # downM3U8
-下载 m3u8 文件 
+下载 m3u8 文件，并合并为mp4文件
+> 本地需下载 ffmpeg
+
+---
 <br/>
 <p align="left">
 hey~，我是科科人神，目前就职于国内一家互联网公司，你们可以加我<a href="#wechat.png">微信</a>，交个朋友吧~
