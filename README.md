@@ -2,7 +2,7 @@
  * @Author: shgopher shgopher@gmail.com
  * @Date: 2023-05-23 22:05:41
  * @LastEditors: shgopher shgopher@gmail.com
- * @LastEditTime: 2023-05-23 23:09:28
+ * @LastEditTime: 2023-05-23 23:11:57
  * @FilePath: /downM3U8/README.md
  * @Description: 
  * 
@@ -38,5 +38,10 @@ go build -o dm3u8
 ./dm3u8 https://example.com/x/b.m3u8
 ```
 ![](./a.gif)
-## 微信公众号
-![](./wechat.png)
+## 扫一扫添加我的公众号，回复 “加群”，可以加入微信群。
+
+<p id="wechat.png" align="center">
+<br>
+<br>
+<img src="./wechat.png"  alt="公众号搜：科科人神">
+</p>
